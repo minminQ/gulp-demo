@@ -1,0 +1,63 @@
+.banner{
+/*	width: 1920px;
+	margin: 0 auto;*/
+	height: 444px;
+	overflow: hidden;
+	position: relative;
+}
+.banner .btn{
+	opacity: 0;
+	transition: all .3s linear;
+}
+.banner:hover .btn{
+	opacity: 1;
+}
+.banner>div{
+	width: 1920px;
+	height: 444px;
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.banner ul{
+	width: 100000px;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.banner ul li{
+	float: left;
+}
+.banner ol{
+	overflow: hidden;
+	position: absolute;
+	left: 50%;
+	top: 360px;
+	margin-left: -32px;
+}
+.banner ol li{
+	width: 21px;
+	height: 21px;
+	float: left;
+	background: url(../img/btn_main_img.png) 0 0 no-repeat;
+	cursor: pointer;
+}
+.banner ol li.active{
+	background-position: 0 -21px;
+}
+.banner a{
+	position: absolute;
+	top: 50%;
+	width: 73px;
+	height: 74px;
+	margin-top: -37px;
+}
+.banner .btn-left{
+	left: 100px;
+	background: url(../img/hover_left.png) left top;
+}
+.banner .btn-right{
+	right: 100px;
+	background: url(../img/hover_right.png) right top;
+}

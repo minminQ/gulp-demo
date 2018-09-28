@@ -1,0 +1,77 @@
+.otherMain{
+	margin-bottom: 15px;
+}
+.otherMain .side {
+	width: 212px;
+	float: left;
+}
+.otherMain .contentMain{
+	width: 960px;
+	/*height: 300px;*/
+	float: right;
+	/*background: #fff;*/
+}
+.otherMain .side .side-title{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	padding-top: 10px;
+	color: #fff;
+	font-size: 15px;
+	background: url(../img/list_tit_bg.png) no-repeat 0 0;
+}
+.otherMain .side .side-nav{
+	padding-bottom: 41px;
+	margin-bottom: 20px;
+	background: url(../img/left_navi_bottom.png) no-repeat left bottom;
+}
+.otherMain .side .side-nav .nav-list{
+	padding-top: 15px;
+	background: url(../img/left_navi_center.png) repeat-y 0 0;
+}
+.otherMain .side .side-nav .nav-list div{
+	width: 191px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	margin:0 auto;
+	margin-bottom: 6px;
+	background: url(../img/left_navi_main.png) no-repeat 0 0;
+}
+.otherMain .side .side-gbook{
+	width: 196px;
+	height: 249px;
+	padding: 10px 6px 0 9px;
+	background: url(../img/let_gbook_con_bg.png) no-repeat 0 0;
+}
+
+.otherMain .side .side-gbook{
+	line-height: 200%;
+}
+
+.otherMain .side .side-gbook .title{
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.otherMain .contentMain{
+	padding-top: 10px;
+}
+.otherMain .contentMain h4{
+	padding-bottom: 10px;
+	line-height: 200%;
+	border-bottom: 1px solid #cbe1f7;
+	margin-bottom: 15px;
+}
+.otherMain .contentMain h4 i{
+	float: right;
+}
+.otherMain .contentMain h4 i a:hover{
+	color: #f90;
+}
+.otherMain .contentMain h4 span{
+	font-size: 15px;
+	background: url(../img/h4_icon.png) no-repeat left center;
+	padding-left: 25px;
+}

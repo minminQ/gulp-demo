@@ -1,0 +1,23 @@
+.otherMain .contentMain .pro-img{
+	width: 275px;
+	height: 240px;
+	border:  1px solid #a7bdd7;
+	padding: 1px;
+	margin: 0 17px 15px 17px;
+	float: left;
+}
+.otherMain .contentMain .pro-img .p-img{
+	width: 269px;
+	height: 202px;
+	padding: 3px;
+}
+.otherMain .contentMain .pro-img .p-img img{
+	width: 269px;
+}
+.otherMain .contentMain .pro-img .p-txt{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	margin-top: 3px;
+	border-top: 2px solid #b5cde9;
+}

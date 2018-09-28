@@ -1,0 +1,17 @@
+.otherMain .contentMain ul{
+	padding-left: 15px;
+}
+.otherMain .contentMain ul li{
+	list-style: disc;
+	margin-bottom: 15px;
+	list-style-position: inside;
+}
+.otherMain .contentMain ul li .news-main a:hover{
+	color: #f90;
+}
+
+.otherMain .contentMain ul li .news-time{
+	float: right;
+	color: #0066b4;
+	font-size: 14px;
+}

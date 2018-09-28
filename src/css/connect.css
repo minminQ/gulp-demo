@@ -1,0 +1,13 @@
+.otherMain .contentMain .connect{
+	padding: 50px 0 0 72px;
+}
+.otherMain .contentMain .connect .title{
+	font-size: 16px;
+	font-weight: bold;
+}
+.otherMain .contentMain .connect .main{
+	padding-top: 30px;
+}
+.otherMain .contentMain .connect .main a{
+	color: blue;
+}

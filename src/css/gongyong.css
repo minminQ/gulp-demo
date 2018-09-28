@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑";
+	font-size: 80%;
+	line-height: 200%;
+	color: #595858;
+	background: #dfe9f3 url(../img/head_top_bg.jpg) no-repeat top center;
+}
+ul,ol,li{
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size: 1em;
+	font-weight: normal;
+}
+i,em,var{
+	font-style: normal;
+}
+b,strong{
+	font-weight: normal;
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: #595858;
+}
+img{
+	display: block;
+	border: none;
+}
+.content{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}

@@ -1,0 +1,22 @@
+.foot{
+	background: url(../img/footer.jpg) repeat center center;
+	padding: 30px 0 20px 0;
+}
+.foot-img{
+	float: left;
+}
+.foot-txt{
+	float: left;
+	margin-left: 36px;
+	line-height: 24px;
+	color: #fff;
+}
+.foot-txt span{
+	margin-right: 10px;
+}
+.foot-txt a{
+	color: blue;
+}
+.foot-logo{
+	float: right;
+}
